@@ -20,7 +20,7 @@ game development, and responsive web design**.
 - A **secure and responsive** platform where users can **manage personal notes**.
 - **Technologies:** PHP, MySQL, Bootstrap
 
-### 4️⃣ [Currency Converter](https://github.com/Tanvir-Mahamood/JavaScript-mini-Projects)
+### 4️⃣ [Currency Converter](https://github.com/Tanvir-Mahamood/JavaScript-mini-Projects/tree/main/Currency%20Converter)
 - Converts user-specified amounts **between currencies** using a **real-time exchange rate API**.
 - **Technologies:** HTML, CSS, JavaScript, External API
 

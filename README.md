@@ -47,24 +47,39 @@ game development, and responsive web design**.
 
 ---
 
+# 🎨 GUI Development Projects by Tanvir Mahamood
+### 1️⃣ [Student Result Management System](https://github.com/Tanvir-Mahamood/Student-Result-Management-System)
+- A system using Java Swing, consists of user login page, information collection, correction and ordering tools.
+- Constant File Read & Write techniques.
+
+### 2️⃣ [Base Converter System](https://github.com/Tanvir-Mahamood/Base-Converter-System)
+- This Java Swing application is a handy tool for converting numbers between different base systems, such as decimal, binary, octal, and hexadecimal. Users can easily enter a number and select the original and target base for conversion.
+
+
 ## 📖 About Me
-I am a 3rd-year student, aspiring software developer, and competitive programmer. I am seeking opportunities 
-to apply my problem-solving skills and technical knowledge in web development and software projects, while 
-contributing to impactful digital solutions.
+I’m a 4th-year Computer Science and Engineering student, aspiring software developer, and competitive programmer with 
+a strong foundation in problem-solving and full-stack web development using JavaScript and PHP. Through academic 
+work and research, I’m also exploring Machine Learning to build intelligent, impactful digital solutions. 
 
 
 📌 **Skills:**  
-- **Programming:** C, C++, Python, Java  
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, MySQL  
-- **Tools & Platforms:** Git, Linux, Keil uVision5  
-- **Other Interests:** Problem-solving, Competitive Programming, App Development  
+  - **Programming Languages:** C, C++, Python, Java, JavaScript, PHP 
+  - **Web Development:** HTML, CSS, Bootstrap,  Laravel, Django  
+  - **Database:** MySQL 
+  - **GUI:** Java Swing 
+  - **Tools & Platforms:** Git, Linux 
+  - **Other:** Data Structures, Algorithms, Problem Solving, LaTeX 
 
 ---
 
 ## 📬 Contact
 📧 Email: [deltatanvir2002@gmail.com](mailto:deltatanvir2002@gmail.com)  
 🐙 GitHub: [Tanvir-Mahamood](https://github.com/Tanvir-Mahamood)  
-🔗 LinkedIn: [Tanvir Mahamood](https://www.linkedin.com/in/tanvir-mahamood)  
+🔗 LinkedIn: [Tanvir Mahamood](https://www.linkedin.com/in/tanvir-mahamood) 
+
+## My Channel
+🎬 Youtube: [@tanvirmahamood](https://www.youtube.com/@tanvirmahamood)
+
 
 Feel free to explore my projects and contribute if you’re interested! ✨  
 
